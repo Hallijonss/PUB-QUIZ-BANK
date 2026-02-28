@@ -1,0 +1,266 @@
+[
+  {
+    "id": "movies_tv-001",
+    "question": "Í hvaða sjónvarpsþáttum eru þessi intro spiluð?\n1) Last of Us — https://www.youtube.com/watch?v=8SWhBsbxmpk\n2) Fóstbræður — https://www.youtube.com/watch?v=ZNP7DQl6O0g (2:06)\n3) Verbúðin — https://www.youtube.com/watch?v=2R7hRkcpgCQ",
+    "answer": "1) The Last of Us\n2) Fóstbræður\n3) Verbúðin",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["sjónvarp", "intro", "Ísland", "tónlist"]
+  },
+  {
+    "id": "movies_tv-002",
+    "question": "Hversu mörgum Home Alone myndum lék Macaulay Culkin í?",
+    "answer": "Tveimur",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["bíómyndir", "leikendur", "Home Alone"]
+  },
+  {
+    "id": "movies_tv-003",
+    "question": "Hvað heitir besti vinur Han Solo?",
+    "answer": "Chewbacca",
+    "difficulty": 1,
+    "author": "Valdi",
+    "tags": ["Star Wars", "persónur", "bíómyndir"]
+  },
+  {
+    "id": "movies_tv-004",
+    "question": "Hvað hét tölvan úr 2001: A Space Odyssey?",
+    "answer": "HAL 9000",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["sci-fi", "klassískar", "bíómyndir"]
+  },
+  {
+    "id": "movies_tv-005",
+    "question": "Hvað heitir persóna Tom Cruise í Top Gun?",
+    "answer": "Maverick",
+    "difficulty": 1,
+    "author": "Valdi",
+    "tags": ["Top Gun", "persónur", "bíómyndir"]
+  },
+  {
+    "id": "movies_tv-006",
+    "question": "Hvað heitir vélmennið í Futurama?",
+    "answer": "Bender",
+    "difficulty": 1,
+    "author": "Valdi",
+    "tags": ["teiknimyndir", "sjónvarp", "Futurama"]
+  },
+  {
+    "id": "movies_tv-007",
+    "question": "Hver leikstýrði myndinni The Shining?",
+    "answer": "Stanley Kubrick",
+    "difficulty": 1,
+    "author": "Valdi",
+    "tags": ["leikstjórar", "hryllingur", "klassískar"]
+  },
+  {
+    "id": "movies_tv-008",
+    "question": "Björk was nominated for an Academy Award in 2001 for Best Original Song — what was the movie called?",
+    "answer": "Dancer in the Dark",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["Óskarinn", "Björk", "bíómyndir"]
+  },
+  {
+    "id": "movies_tv-009",
+    "question": "In the movie Home Alone, a kid is left home alone for Christmas after accidentally missing his plane — who plays the kid and what is the character called?",
+    "answer": "Macaulay Culkin — Kevin McCallister",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["Home Alone", "leikendur", "persónur"]
+  },
+  {
+    "id": "movies_tv-010",
+    "question": "Hvað hétu þættir Bam Margera á MTV þar sem hann pinnti fjölskyldu sína?",
+    "answer": "Viva la Bam",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["MTV", "raunveruleikaþættir", "sjónvarp"]
+  },
+  {
+    "id": "movies_tv-011",
+    "question": "Hver var fyrsta bíómyndin sem Jay og Silent Bob komu fram í?",
+    "answer": "Clerks",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Kevin Smith", "bíómyndir", "karakterar"]
+  },
+  {
+    "id": "movies_tv-012",
+    "question": "Hvaða sköllótti Íslendingur fór með hlutverk Caliban í myndinni X-Men: Apocalypse?",
+    "answer": "Tómas Lemarquis",
+    "difficulty": 3,
+    "author": "Halli",
+    "tags": ["Ísland", "X-Men", "leikendur"]
+  },
+  {
+    "id": "movies_tv-013",
+    "question": "Hvað heitir súrrealíska bíómynd Alejandro Jodorowsky þar sem hann fer með hlutverk The Alchemist og fjallar um leit að eilífu lífi?",
+    "answer": "The Holy Mountain",
+    "difficulty": 3,
+    "author": "Halli",
+    "tags": ["súrrealískt", "kvikmyndir", "leikstjórar"]
+  },
+  {
+    "id": "movies_tv-014",
+    "question": "Leikstjórinn Lars von Trier var nefndur í kjölfar #MeToo þegar íslensk leikkona lýsti ósæmilegri hegðun hans við upptökur á mynd sem hann leikstýrði (myndin vann m.a. Gullna pálmann). Hver var konan og hvað hét myndin?",
+    "answer": "Björk — Dancer in the Dark",
+    "difficulty": 3,
+    "author": "Jói",
+    "tags": ["Björk", "Lars von Trier", "Óskarinn", "Cannes"]
+  },
+  {
+    "id": "movies_tv-015",
+    "question": "Hver af krökkunum í Latabæ var hvorki fugl né fiskur, án CD-drive og með góðan harðan disk?",
+    "answer": "Goggi Mega",
+    "difficulty": 3,
+    "author": "Halli",
+    "tags": ["Latibær", "Ísland", "sjónvarp"]
+  },
+  {
+    "id": "movies_tv-016",
+    "question": "Hvaða óskarsverðlaunaða leikkona heitir réttu nafni Neta-Lee Hershlag?",
+    "answer": "Natalie Portman",
+    "difficulty": 2,
+    "author": "Jói",
+    "tags": ["leikendur", "Óskarinn", "Hollywood"]
+  },
+  {
+    "id": "movies_tv-017",
+    "question": "Spurt er um mann: hann gaf út sjálfsævisöguna Making Waves (2006), var einn vinsælasti sjónvarpsleikari níunda áratugarins (hlutverk Mitch Buchannon), og flutti lagið „Looking for Freedom“ á toppi Berlínarmúrsins á gamlárskvöld 1989. Hver er maðurinn?",
+    "answer": "David Hasselhoff",
+    "difficulty": 3,
+    "author": "Jói",
+    "tags": ["sjónvarp", "frægð", "1980s", "Þýskaland"]
+  },
+  {
+    "id": "movies_tv-018",
+    "question": "Hvaða bíómynd með Vince Vaughn og Jon Favreau gerði setninguna „You always double down on 11“ fræga?",
+    "answer": "Swingers",
+    "difficulty": 3,
+    "author": "Halli",
+    "tags": ["1990s", "bíómyndir", "tilvitnanir"]
+  },
+  {
+    "id": "movies_tv-019",
+    "question": "Hver var uppáhalds drykkur The Dude í The Big Lebowski, og hvernig er hann gerður?",
+    "answer": "White Russian — vodka, Kahlúa og rjómi (eða mjólk)",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["The Big Lebowski", "drykkir", "bíómyndir"]
+  },
+  {
+    "id": "movies_tv-020",
+    "question": "Við hvaða foss var byrjunarsena Prometheus tekin upp?",
+    "answer": "Dettifoss",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Ísland", "kvikmyndatökustaðir", "sci-fi"]
+  },
+  {
+    "id": "movies_tv-021",
+    "question": "Aðeins ein íslensk kvikmynd hefur verið tilnefnd sem besta erlenda mynd á Óskarnum — hver er hún og hver leikstýrði henni?",
+    "answer": "Börn náttúrunnar — Friðrik Þór Friðriksson",
+    "difficulty": 3,
+    "author": "Halli",
+    "tags": ["Ísland", "Óskarinn", "kvikmyndir"]
+  },
+  {
+    "id": "movies_tv-022",
+    "question": "Hvaða lag spilast á vekjaraklukkunni hvern einasta dag í Groundhog Day?",
+    "answer": "I Got You Babe",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["tilvitnanir", "klassískar", "bíómyndir"]
+  },
+  {
+    "id": "movies_tv-023",
+    "question": "Á Óskarnum fékk kynnirinn einn vænan löðrung þegar hann gerði grín að konu leikara — hver gaf löðrunginn og hver tók á móti honum?",
+    "answer": "Will Smith sló Chris Rock",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["Óskarinn", "fréttir", "Hollywood"]
+  },
+  {
+    "id": "movies_tv-024",
+    "question": "Idol stjörnuleitin fór aftur í loftið 10 árum eftir að hún kom fyrst á klakann. Spurt er: hver vann fyrstu íslensku Idol stjörnuleitina og hver vann fyrstu bandarísku Idol keppnina?",
+    "answer": "Kalli Bjarni — Kelly Clarkson",
+    "difficulty": 3,
+    "author": "Halli",
+    "tags": ["tónlist", "sjónvarp", "keppnir"]
+  },
+  {
+    "id": "movies_tv-025",
+    "question": "Frumsýning Oppenheimer í júlí 2023 var sama dag og frumsýning annarrar ennþá vinsælli myndar. Hvaða mynd var það, og hver leikstýrði henni?",
+    "answer": "Barbie — Greta Gerwig",
+    "difficulty": 2,
+    "author": "Hófí",
+    "tags": ["2020s", "frumsýningar", "kvikmyndir"]
+  },
+  {
+    "id": "movies_tv-026",
+    "question": "Kvikmyndin The Wizard of Oz (1939) var fræg fyrir tæknibrellur. Hvaða efni sem bannað er að nota í dag notuðu framleiðendur til að líkja eftir snjó?",
+    "answer": "Asbest",
+    "difficulty": 3,
+    "author": "Hófí",
+    "tags": ["klassískar", "tæknibrellur", "saga"]
+  },
+  {
+    "id": "movies_tv-027",
+    "question": "Survivor hefur verið framleitt óslitið frá árinu 2000. Frá árinu 2016 hefur verið haldið á sama stað. Hvar hefur Survivor verið haldið síðan þá?",
+    "answer": "Fiji-eyjum",
+    "difficulty": 2,
+    "author": "Hófí",
+    "tags": ["Survivor", "raunveruleikaþættir", "sjónvarp"]
+  },
+  {
+  "id": "movies_tv-028",
+  "question": "Gervigreind er sannarlega að taka yfir heiminn, en í bíómyndinni 2001 a Space Odyssey var gervigreind sem stjórnaði geimskipi söguhetjanna, hvert var nafnið á þeirri gervigreind?",
+  "answer": "HAL 9000",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["sci-fi", "AI"]
+},
+{
+  "id": "movies_tv-029",
+  "question": "Hver var upprunalega valinn til að leikstýra Hobitanum áður en Peter Jackson tók við?",
+  "answer": "Guillermo del Toro",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["Lord of the Rings", "directors"]
+},
+{
+  "id": "movies_tv-030",
+  "question": "Í World of Warcraft heiminum laumast allskyns verur. Það hafa verið gerðir fjölmargir tölvuleikir sem gerast í þeim heimi en einungis ein bíómynd. Spurt er: hver leikstýrði bíómyndinni og hver er faðir leikstjórans?",
+  "answer": "Duncan Jones; David Bowie",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["gaming", "movies"]
+},
+{
+  "id": "movies_tv-031",
+  "question": "“I am serious. And don't call me Shirley.” “Frankly, my dear, I don't give a damn.” “You can't handle the truth!”",
+  "answer": "Airplane!; Gone with the Wind; A Few Good Men",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["movie quotes"]
+},
+{
+  "id": "movies_tv-032",
+  "question": "Hver leikstýrði The Social Network?",
+  "answer": "David Fincher",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["directors"]
+},
+{
+  "id": "movies_tv-033",
+  "question": "Hver talar fyrir Sullivan í Monsters, Inc. bíómyndunum með ensku tali?",
+  "answer": "John Goodman",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["voice acting", "Pixar"]
+}
+]

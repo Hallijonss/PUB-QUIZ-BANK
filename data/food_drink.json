@@ -1,0 +1,98 @@
+[
+  {
+    "id": "food_drink-001",
+    "question": "Frá hvaða landi koma chorizo pylsurnar upprunalega?",
+    "answer": "Spánn / Portúgal",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["matur", "uppruni", "Spánn", "Portúgal"]
+  },
+  {
+    "id": "food_drink-002",
+    "question": "At some homes there is a tradition to serve Waldorf salad with the Christmas dinner — but who or what is Waldorf where this salad derives its name from?",
+    "answer": "Hótel (Waldorf Hotel / Waldorf-Astoria)",
+    "difficulty": 2,
+    "author": "Danni",
+    "tags": ["matur", "hefðir", "salat"]
+  },
+  {
+    "id": "food_drink-003",
+    "question": "Í sumum heimilum er skata borin fram á Þorláksmessu. Rétturinn er einnig borðaður í landi sem er um 8000 km í burtu þar sem hann kallast Hongeo-Hoe. Hvaða land er það?",
+    "answer": "Kórea",
+    "difficulty": 3,
+    "author": "Valdi",
+    "tags": ["matur", "hefðir", "Kórea", "skata"]
+  },
+  {
+    "id": "food_drink-004",
+    "question": "Toblerone er súkkulaði sem tengist ekki sérstaklega jólum, en fjallið á merkinu tengist skíðum. Hvað heitir fjallið á Toblerone merkinu?",
+    "answer": "Matterhorn",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["sælgæti", "fjöll", "Sviss"]
+  },
+  {
+    "id": "food_drink-005",
+    "question": "Á Bæjarins Beztu er hægt að panta „eina með öllu“. Einnig er hægt að panta „Clinton“, sem vísar í pylsu sem Bill Clinton pantaði þegar hann heimsótti Ísland. Hvaða meðlæti fær maður þegar maður pantar Clinton?",
+    "answer": "Aðeins sinnep",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["Ísland", "pylsur", "skyndibiti"]
+  },
+  {
+    "id": "food_drink-006",
+    "question": "Hvaða ávöxt þarf maður að þurrka til þess að fá sveskjur?",
+    "answer": "Plómur",
+    "difficulty": 1,
+    "author": "Jói",
+    "tags": ["ávextir", "matur"]
+  },
+  {
+    "id": "food_drink-007",
+    "question": "Hvaða kokteill inniheldur vodka, ferskjusnapps, appelsínusafa og trönuberjasafa?",
+    "answer": "Sex on the Beach",
+    "difficulty": 1,
+    "author": "Valdi",
+    "tags": ["drykkir", "kokteilar"]
+  },
+  {
+    "id": "food_drink-008",
+    "question": "Hvaða ferski ávöxtur hefur flestar hitaeiningar per 100 gr?",
+    "answer": "Avókadó",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["ávextir", "næring"]
+  },
+  {
+    "id": "food_drink-009",
+    "question": "Úr hverju er tequila gerjað?",
+    "answer": "Agave",
+    "difficulty": 1,
+    "author": "Valdi",
+    "tags": ["drykkir", "áfengi", "Mexíkó"]
+  },
+  {
+    "id": "food_drink-010",
+    "question": "Spurt er um nammi. Nafn þess inniheldur söngvara, land og viðurnefni frægs Harry's. Hvað er nammið?",
+    "answer": "Prins Póló",
+    "difficulty": 3,
+    "author": "Hófí",
+    "tags": ["nammi", "orðaleikur", "Ísland"]
+  },
+  {
+  "id": "food_drink-011",
+  "question": "Hvaða þrjú hráefni eru í klassískum carbonara?",
+  "answer": "Egg, guanciale og pecorino (2 stig). Egg, beikon og parmesan (1 stig).",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["Italian", "pasta"]
+},
+{
+  "id": "food_drink-012",
+  "question": "Hvaða matvara hefur fjórar opinberar gerðir: bjalla, stígvél, slaufu og bolta?",
+  "answer": "Chicken McNuggets",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["fast food", "McDonalds"]
+}
+]

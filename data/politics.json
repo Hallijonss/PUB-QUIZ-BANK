@@ -1,0 +1,258 @@
+[
+  {
+    "id": "politics-001",
+    "question": "Hver var kosinn formaður Samfylkingarinnar í október 2022?",
+    "answer": "Kristrún Frostadóttir",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["Ísland", "stjórnmál", "Samfylkingin"]
+  },
+  {
+    "id": "politics-002",
+    "question": "Hvaða embætti hafa Dag Hammarskjöld, Kofi Annan og Ban Ki-moon allir gegnt?",
+    "answer": "Aðalritari Sameinuðu þjóðanna",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["SÞ", "alþjóðastjórnmál"]
+  },
+  {
+    "id": "politics-003",
+    "question": "Þrjár manneskjur voru forsætisráðherrar í Bretlandi árið 2022. Nefnið tvo.",
+    "answer": "Boris Johnson, Liz Truss, Rishi Sunak",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["Bretland", "stjórnmál"]
+  },
+  {
+    "id": "politics-004",
+    "question": "Hver var kjörinn forseti Frakklands 2017?",
+    "answer": "Emmanuel Macron",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["Frakkland", "forsetar"]
+  },
+  {
+    "id": "politics-005",
+    "question": "Hvaða ár varð Ísland fullvalda?",
+    "answer": "1. desember 1918",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["Ísland", "saga", "fullveldi"]
+  },
+  {
+    "id": "politics-006",
+    "question": "Hver er núverandi varaforseti Bandaríkjanna (2023)?",
+    "answer": "Kamala Harris",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["Bandaríkin", "stjórnmál"]
+  },
+  {
+    "id": "politics-007",
+    "question": "Hvað heitir núverandi forsetafrú Íslands?",
+    "answer": "Eliza Reid",
+    "difficulty": 1,
+    "author": "Valdi",
+    "tags": ["Ísland", "forseti"]
+  },
+  {
+    "id": "politics-008",
+    "question": "Hvað hét konan sem Bill Clinton hélt framhjá með meðan hann var forseti?",
+    "answer": "Monica Lewinsky",
+    "difficulty": 1,
+    "author": "Valdi",
+    "tags": ["Bandaríkin", "forsetar", "pólitísk saga"]
+  },
+  {
+    "id": "politics-009",
+    "question": "Hvaða meðlimur bresku krúnunnar var sakaður af tveimur konum í tengslum við Epstein?",
+    "answer": "Prince Andrew",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Bretland", "konungsfjölskylda"]
+  },
+  {
+    "id": "politics-010",
+    "question": "Xi Jinping bannaði þekkta teiknimyndafígúru í Kína eftir að honum var líkt við hana. Hvaða karakter var það?",
+    "answer": "Winnie the Pooh (Bangsímon)",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Kína", "ræðismenn", "menning"]
+  },
+  {
+    "id": "politics-011",
+    "question": "Í viðtali á Útvarpi Sögu setti Sigmundur Davíð fram samsæriskenningu um að austurrísk-bandarískur auðkýfingur hefði borgað fyrir Panamaskjölin. Hvern var hann að ásaka?",
+    "answer": "George Soros",
+    "difficulty": 3,
+    "author": "Halli",
+    "tags": ["Ísland", "stjórnmál", "Panamaskjölin"]
+  },
+  {
+    "id": "politics-012",
+    "question": "Nefnið tvo bandaríkjaforseta (aðra en Donald Trump) sem hafa verið impeachaðir.",
+    "answer": "Andrew Johnson, Bill Clinton",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Bandaríkin", "forsetar", "lögfræði"]
+  },
+  {
+    "id": "politics-013",
+    "question": "Hvaða ár var sjálfstæðisyfirlýsing Bandaríkjanna undirrituð?",
+    "answer": "1776",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["Bandaríkin", "saga"]
+  },
+  {
+    "id": "politics-014",
+    "question": "Hvaða frambjóðandi demókrata kallaði Donald Trump „Pocahontas“ á Twitter?",
+    "answer": "Elizabeth Warren",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Bandaríkin", "kosningar"]
+  },
+  {
+    "id": "politics-015",
+    "question": "Við hverjum tók Pútín forsetaembættið árið 1999?",
+    "answer": "Boris Jeltsin",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Rússland", "leiðtogar"]
+  },
+  {
+    "id": "politics-016",
+    "question": "Roe vs Wade (1973) var hæstaréttarmál í Bandaríkjunum sem hafði miklar afleiðingar. Um hvað var dæmt?",
+    "answer": "Fóstureyðingar",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Bandaríkin", "réttarmál", "stjórnmál"]
+  },
+  {
+    "id": "politics-017",
+    "question": "Hvaða blóm vildi Davíð Oddsson að væri þjóðarblóm Íslendinga?",
+    "answer": "Gleymérey",
+    "difficulty": 3,
+    "author": "Halli",
+    "tags": ["Ísland", "stjórnmál", "menning"]
+  },
+  {
+    "id": "politics-018",
+    "question": "Vigdís Finnbogadóttir var fyrst lýðræðislega kjörni kvenforseti heims. Hvaða ár var hún kjörin og við hverjum tók hún?",
+    "answer": "1980, Kristján Eldjárn",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["Ísland", "forsetar"]
+  },
+  {
+    "id": "politics-019",
+    "question": "Hvaða slagorð setti Donald Trump á hatt og hvaða slagorð var Obama með á frægri mynd eftir Shepard Fairey?",
+    "answer": "Make America Great Again og HOPE",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Bandaríkin", "kosningar", "slagorð"]
+  },
+  {
+    "id": "politics-020",
+    "question": "George Bush sagði: \"The military will stay in Iceland as long as my friend ___ is the prime minister.\" Hvern var hann að tala um?",
+    "answer": "Davíð Oddsson",
+    "difficulty": 3,
+    "author": "Halli",
+    "tags": ["Ísland", "Bandaríkin", "varnarmál"]
+  },
+  {
+    "id": "politics-021",
+    "question": "Hver sagði þessa setningu og hvaða ár? „Á þann hátt með íslensku bjartsýni, æðruleysi og samstöðu að vopni munum við standa storminn af okkur. Guð blessi Ísland.“",
+    "answer": "Geir H. Haarde, 2008",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Ísland", "hrunið", "ræður"]
+  },
+  {
+    "id": "politics-022",
+    "question": "Hver sagði þessa setningu og hvaða ár? \"I can hear you. The rest of the world hears you. And the people who knocked these buildings down will hear all of us soon.\"",
+    "answer": "George W. Bush, 2001",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Bandaríkin", "9/11", "ræður"]
+  },
+  {
+    "id": "politics-023",
+    "question": "Eftir Brexit-kosninguna 2016 sagði forsætisráðherra Bretlands af sér. Hver var hann og hver tók við?",
+    "answer": "David Cameron, Theresa May",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Bretland", "Brexit"]
+  },
+  {
+    "id": "politics-024",
+    "question": "Hverjir voru varaforsetar Barack Obama og Bill Clinton?",
+    "answer": "Joe Biden og Al Gore",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["Bandaríkin", "forsetar"]
+  },
+  {
+    "id": "politics-025",
+    "question": "Hver var forsætisráðherra Bretlands þegar Elísabet II lést í september 2022?",
+    "answer": "Liz Truss",
+    "difficulty": 2,
+    "author": "Hófí",
+    "tags": ["Bretland", "konungsfjölskylda"]
+  },
+  {
+    "id": "politics-026",
+    "question": "Angela Merkel var kanslari Þýskalands í 16 ár en áður starfaði hún sem vísindamaður. Í hvaða fræðigrein tók hún doktorspróf?",
+    "answer": "Efnafræði (skammtaefnafræði / eðlisefnafræði)",
+    "difficulty": 3,
+    "author": "Hófí",
+    "tags": ["Þýskaland", "leiðtogar", "vísindi"]
+  },
+  {
+    "id": "politics-027",
+    "question": "Hvaða Bandaríkjaforseti sagði af sér árið 1974 vegna Watergate-skandalsins?",
+    "answer": "Richard Nixon",
+    "difficulty": 1,
+    "author": "Hófí",
+    "tags": ["Bandaríkin", "Watergate"]
+  },
+  {
+    "id": "politics-028",
+    "question": "Hvað var gervinafn þess sem gaf mikilvægar upplýsingar sem leiddu til uppljóstrunar á Watergate?",
+    "answer": "Deep Throat",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Bandaríkin", "Watergate", "blaðamennska"]
+  },
+  {
+  "id": "politics-029",
+  "question": "Breski fjárfestirinn Iain Osborne segir í pósti til Jeffrey Epstein “Just touched down in Iceland, the weather is foul and the people unwelcoming” — hver var íslenski stjórnarformaðurinn sem hann kom til að hitta?",
+  "answer": "Kári Stefánsson",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["Iceland", "Epstein", "current affairs"]
+},
+{
+  "id": "politics-030",
+  "question": "Polymarket er spámarkaður þar sem notendur geta veðjað á allt milli himins og jarðar, þar með talið hver verður forseti Bandaríkjanna árið 2028. Hvaða forsetaefni repúblíkana og demókrata er talið líklegastir til að verða forseti?",
+  "answer": "JD Vance; Gavin Newsom",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["USA", "elections", "prediction market"]
+},
+{
+  "id": "politics-031",
+  "question": "Hvert var varaforsetaefni Donald Trump fyrir kosningarnar 2016, sem var síðar skipt út fyrir JD Vance eftir að hann neitaði að telja falsaða kjörmenn og gera Trump að áframhaldandi forseta árið 2021, og hvert var varaforsetaefni Kamala Harris?",
+  "answer": "Mike Pence og Tim Walz",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["USA", "vice president", "elections"]
+},
+{
+  "id": "politics-032",
+  "question": "Hver er Fjármála- og efnahagsráðherra?",
+  "answer": "Daði Már",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["Iceland", "government", "ministers", "time sensitive"]
+}
+]

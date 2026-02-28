@@ -1,0 +1,202 @@
+[
+  {
+    "id": "music-001",
+    "question": "Hvað heitir söngvari Guns N' Roses?",
+    "answer": "Axl Rose",
+    "difficulty": 1,
+    "author": "Valdi",
+    "tags": ["rokk", "hljómsveitir"]
+  },
+  {
+    "id": "music-002",
+    "question": "Hvert er raunverulegt nafn rapparans 50 Cent?",
+    "answer": "Curtis James Jackson",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["rap", "hiphop"]
+  },
+  {
+    "id": "music-003",
+    "question": "Post Malone og Childish Gambino fengu listamannanöfn sín á sama hátt. Hvaða hátt?",
+    "answer": "Wu-Tang Clan name generator",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["rap", "internet", "listamannanöfn"]
+  },
+  {
+    "id": "music-004",
+    "question": "Last Christmas er lag með Wham! Hvað heita tveir meðlimir sveitarinnar?",
+    "answer": "George Michael og Andrew Ridgeley",
+    "difficulty": 2,
+    "author": "Danni",
+    "tags": ["pop", "80s", "Wham"]
+  },
+  {
+    "id": "music-005",
+    "question": "Hvaða lag er undirstaða lagsins Dota með Basshunter?",
+    "answer": "Daddy DJ",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["dance", "2000s", "sampling"]
+  },
+  {
+    "id": "music-006",
+    "question": "Meðlimir hvaða hljómsveitar lentu í þriðja sæti í X-Factor árið 2010 en urðu síðar frægir með Simon Cowell sem umboðsmann?",
+    "answer": "One Direction",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["pop", "X-Factor", "One Direction"]
+  },
+  {
+    "id": "music-007",
+    "question": "Nefnið alla meðlimi One Direction.",
+    "answer": "Louis Tomlinson, Niall Horan, Liam Payne, Harry Styles, Zayn Malik",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["pop", "One Direction"]
+  },
+  {
+    "id": "music-008",
+    "question": "Frá hvaða söngleik er lagið \"I Want to Live in America\"?",
+    "answer": "West Side Story",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["söngleikir", "klassík"]
+  },
+  {
+    "id": "music-009",
+    "question": "Hver skrifaði lög og texta í söngleiknum In the Heights?",
+    "answer": "Lin-Manuel Miranda",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["söngleikir", "Broadway"]
+  },
+  {
+    "id": "music-010",
+    "question": "Plötu hvaða hljómsveitar keypti lyfjaframleiðandinn Martin Shkreli á 1 milljón dala þegar aðeins eitt eintak var gefið út?",
+    "answer": "Wu-Tang Clan",
+    "difficulty": 3,
+    "author": "Halli",
+    "tags": ["hiphop", "Wu-Tang Clan"]
+  },
+  {
+    "id": "music-011",
+    "question": "Selma Björnsdóttir hefur tvisvar tekið þátt fyrir Ísland í Eurovision. Hvaða lög söng hún?",
+    "answer": "All Out of Luck og If I Had Your Love",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Eurovision", "Ísland"]
+  },
+  {
+    "id": "music-012",
+    "question": "Hvaða ár lést David Bowie?",
+    "answer": "2016",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["rokk", "David Bowie"]
+  },
+  {
+    "id": "music-013",
+    "question": "Hver var aðalgítarleikari Queen?",
+    "answer": "Brian May",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["rokk", "Queen"]
+  },
+  {
+    "id": "music-014",
+    "question": "Nefnið þrjár íslenskar hljómsveitir eða tónlistarmenn sem eru með flesta mánaðarlega hlustendur á Spotify.",
+    "answer": "Breytist með tíma — t.d. Kaleo, Of Monsters and Men, Laufey",
+    "difficulty": 3,
+    "author": "Halli",
+    "tags": ["Ísland", "Spotify", "tónlist"]
+  },
+  {
+    "id": "music-015",
+    "question": "Shape of You með Ed Sheeran var lengi mest spilaða lag á Spotify, en hvaða lag fór fram úr því?",
+    "answer": "Blinding Lights",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Spotify", "pop", "The Weeknd"]
+  },
+  {
+  "id": "music-016",
+  "question": "Laufey Lín hefur heldur betur gert garðin frægan og var að hneppa önnur Grammy-verðlaunin sín, en hvaða lag, af plötunni Bewitched, hefur yfir milljarð hlustanir á Spotify?",
+  "answer": "From the Start",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["Laufey", "Spotify", "pop"]
+},
+{
+  "id": "music-017",
+  "question": "Laufey Lín hefur heldur betur gert garðin frægan og var að hneppa önnur Grammy-verðlaunin sín, en í viðtali við Gísla Marteins nefndi hún enskt orð sem hljómar skrítið fyrir Íslendinga — hvaða orð var það?",
+  "answer": "Tour (túr)",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["Laufey", "Icelandic", "language"]
+},
+{
+  "id": "music-018",
+  "question": "Tónlistarmennirnir fyrrum þekktir sem Prince og Kanye hafa báðir breytt nafninu sínu — hvaða nýju nöfn tóku þessir tónlistarmenn?",
+  "answer": "Ye; Prince-táknið / The Artist Formerly Known as Prince",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["Prince", "Kanye", "stage names"]
+},
+{
+  "id": "music-019",
+  "question": "Margir íslenskir tónlistarmenn hafa náð út fyrir landssteinana. Nefnið þrjár íslenskar hljómsveitir eða tónlistamenn sem eru með yfir 3.2 milljón mánaðarlega hlustendur á Spotify.",
+  "answer": "Breytist með tíma — t.d. Kaleo; Of Monsters and Men; Laufey; Ólafur Arnalds (nefnið 3)",
+  "difficulty": 3,
+  "author": "Halli",
+  "tags": ["Icelandic music", "Spotify", "time sensitive"]
+},
+{
+  "id": "music-016",
+  "question": "Laufey Lín hefur heldur betur gert garðin frægan og var að hneppa önnur Grammy-verðlaunin sín, en hvaða lag, af plötunni Bewitched hefur yfir milljarð hlustanir á Spotify?",
+  "answer": "From the Start",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["Laufey", "Spotify", "time sensitive"]
+},
+{
+  "id": "music-017",
+  "question": "Laufey Lín hefur heldur betur gert garðin frægan og var að hneppa önnur Grammy-verðlaunin sín, en í viðtali við Gísla Marteins nefndi hún enskt orð sem hljómar skrítið fyrir Íslendinga, sem hún væri búin að vera á síðasta ár — hvaða orð var það?",
+  "answer": "Tour (túr)",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["Laufey", "language"]
+},
+{
+  "id": "music-018",
+  "question": "Tónlistarmennirnir fyrrum þekktir sem Prince og Kanye hafa báðir breytt nafninu sínu, hvaða nýju nöfn tóku þessir tónlistarmenn?",
+  "answer": "Ye; Prince-táknið / The Artist Formerly Known as Prince (nokkur svör í gildi)",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["Prince", "Kanye", "names"]
+},
+{
+  "id": "music-019",
+  "question": "Margir íslenskir tónlistamenn hafa náð út fyrir landssteinana. Þar má nefna vinsældir Sigur Rós, Quarashi og Björk en hér ætla ég að biðja ykkur um að nefna þrjár íslenskar hljómsveitir eða tónlistamenn sem eru með yfir 3.2 milljón mánaðarlega hlustendur á Spotify.",
+  "answer": "Breytist með tíma — t.d. Kaleo; Of Monsters and Men; Laufey; Ólafur Arnalds (nefnið 3)",
+  "difficulty": 3,
+  "author": "Halli",
+  "tags": ["Iceland", "Spotify", "time sensitive"]
+},
+{
+  "id": "music-020",
+  "question": "Shape of You með Ed Sheeran hefur síðastliðin ár verið mest spilaða lag á Spotify, en fyrir stuttu var hann felldur úr toppnum, en með hvaða lagi?",
+  "answer": "Blinding Lights",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["Spotify", "charts", "time sensitive"]
+},
+{
+  "id": "music-021",
+  "question": "Botnaðu línuna, og úr hvaða lagi er það: I'm living in the future so the present is my past",
+  "answer": "Monster",
+  "difficulty": 3,
+  "author": "Halli",
+  "tags": ["lyrics", "hip hop"]
+}
+]

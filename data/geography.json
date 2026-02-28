@@ -1,0 +1,114 @@
+[
+  {
+    "id": "geography-001",
+    "question": "Hvað er syðsti staður Íslands?",
+    "answer": "Surtsey",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["Ísland", "landafræði", "eyjar"]
+  },
+  {
+    "id": "geography-002",
+    "question": "Hvaða bæjarfélag er í póstnúmeri 162?",
+    "answer": "Kjalarnes",
+    "difficulty": 3,
+    "author": "Valdi",
+    "tags": ["Ísland", "póstnúmer", "sveitarfélög"]
+  },
+  {
+    "id": "geography-003",
+    "question": "Hver er höfuðborg Ástralíu?",
+    "answer": "Canberra",
+    "difficulty": 1,
+    "author": "Valdi",
+    "tags": ["höfuðborgir", "Ástralía", "landafræði"]
+  },
+  {
+    "id": "geography-004",
+    "question": "Quite a few countries in the world end with the letter -d but most of them end with the word land. There is only one country that ends with -d without ending in land, and its name is also an English first name. Which country is that?",
+    "answer": "Chad",
+    "difficulty": 2,
+    "author": "Danni",
+    "tags": ["lönd", "enska", "landafræði"]
+  },
+  {
+    "id": "geography-005",
+    "question": "Hvað er þekktasta viðurnefni Chicago borgar?",
+    "answer": "Windy City",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["Bandaríkin", "borgir", "viðurnefni"]
+  },
+  {
+    "id": "geography-006",
+    "question": "Reykjanes og þá sérstaklega bæjarfélögin sem á því eru eru einhverjir alverstu staðir Íslands, en hvert er vestasta bæjarfélag Reykjaness?",
+    "answer": "Sandgerði / Suðurnesjabær",
+    "difficulty": 2,
+    "author": "Jói",
+    "tags": ["Ísland", "Reykjanes", "sveitarfélög"]
+  },
+  {
+    "id": "geography-007",
+    "question": "Tvö Afríkuríki voru aldrei evrópskar nýlendur. Annað þeirra er Líbería — hvert er hitt?",
+    "answer": "Eþíópía",
+    "difficulty": 2,
+    "author": "Jói",
+    "tags": ["Afríka", "saga", "nýlendur"]
+  },
+  {
+    "id": "geography-008",
+    "question": "Á fána hvaða ríkis er AK-47 riffill?",
+    "answer": "Mozambique",
+    "difficulty": 2,
+    "author": "Jói",
+    "tags": ["fánar", "Afríka", "lönd"]
+  },
+  {
+    "id": "geography-009",
+    "question": "Hver er höfuðborg Georgíu?",
+    "answer": "Tbilisi",
+    "difficulty": 2,
+    "author": "Jói",
+    "tags": ["höfuðborgir", "Georgía", "landafræði"]
+  },
+  {
+    "id": "geography-010",
+    "question": "Við hvaða vatn er Reykjahlíð?",
+    "answer": "Mývatn",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Ísland", "Mývatn", "staðir"]
+  },
+  {
+    "id": "geography-011",
+    "question": "Á Þingvöllum eru margar gjár, en ein gjá er þekktust og nær frá þjónustumiðstöð við Hakið niður að Lögbergi og fram að Stekkjargjá. Hver er hún?",
+    "answer": "Almannagjá",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Ísland", "Þingvellir", "náttúra"]
+  },
+  {
+    "id": "geography-012",
+    "question": "Spurt er um ríki í Afríku. Höfuðborg þess er nefnd eftir fimmta forseta Bandaríkjanna og fáni þess hefur rauðar og hvítar rendur og stjörnu á bláum bakgrunni. Hvaða ríki er þetta?",
+    "answer": "Líbería",
+    "difficulty": 2,
+    "author": "Hófí",
+    "tags": ["Afríka", "fánar", "höfuðborgir"]
+  },
+  {
+  "id": "geography-013",
+  "question": "Hvaða haf er vestan við Ísrael/Palestínu og hvaða á er austan við landið?",
+  "answer": "Miðjarðarhafið; Jórdan",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["Middle East", "rivers"]
+},
+{
+  "id": "geography-014",
+  "question": "Hvað er eina landið sem byrjar á O?",
+  "answer": "Oman",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["countries"]
+}
+]

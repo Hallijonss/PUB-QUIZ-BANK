@@ -1,0 +1,74 @@
+[
+  {
+    "id": "arts-001",
+    "question": "Stærsta mynd sem Banksy hefur málað var seld á uppboði fyrir 9,9 milljón punda. Á henni eru apar — hvar eru þeir staddir?",
+    "answer": "Í þinghúsinu (House of Commons)",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Banksy", "myndlist", "Bretland"]
+  },
+  {
+    "id": "arts-002",
+    "question": "Frá hvaða bæ í Bretlandi er Banksy?",
+    "answer": "Bristol",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["Banksy", "myndlist", "Bretland"]
+  },
+  {
+    "id": "arts-003",
+    "question": "Hvaða frægi myndlistarmaður á 15. og 16. öld var með teikningar fyrir fallhlífar og flugvélar?",
+    "answer": "Leonardo da Vinci",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["endurreisn", "myndlist", "uppfinningar"]
+  },
+  {
+    "id": "arts-004",
+    "question": "Spurt er um fatamerki. Fatamerkið er landsþekkt og var stofnað árið 1969, en nafn merkisins er dregið af nafni stofnandans. Föt frá merkinu nutu mikilla vinsælda í upphafi þessarar aldar og galla frá þeim mátti sjá víða. Meðal þekktra einstaklinga sem klæðst hafa merkinu er tónlistarmaðurinn Love Guru og fótboltaliðið Aston Villa sem spilaði í búningum frá merkinu tímabilið 1985–1986. Hvaða merki er þetta?",
+    "answer": "Henson",
+    "difficulty": 3,
+    "author": "Jói",
+    "tags": ["tíska", "fatamerki", "menning"]
+  },
+  {
+    "id": "arts-005",
+    "question": "Pablo Picasso er einn af mikilvægustu listamönnum tuttugustu aldar. Frá hvaða landi var hann og hvaða litur er mest notaður í málverkum hans á tímabilinu 1901–1904?",
+    "answer": "Spáni, blár",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Picasso", "myndlist", "bláa tímabilið"]
+  },
+  {
+    "id": "arts-006",
+    "question": "Á plötuumslagi Kanye West á plötunni Late Registration er bangsi fyrir framan dyr á frægum háskóla í New Jersey í Bandaríkjunum. Hvaða háskóli er það?",
+    "answer": "Princeton háskóli",
+    "difficulty": 2,
+    "author": "Hófí",
+    "tags": ["tónlist", "Kanye West", "plötuumslög"]
+  },
+  {
+  "id": "arts-007",
+  "question": "Í hvaða landi var Helvetica leturgerðin hönnuð?",
+  "answer": "Sviss",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["typography", "design"]
+},
+{
+  "id": "arts-008",
+  "question": "Hvað hét Banksy málverkið sem tættist eftir að það var selt?",
+  "answer": "Girl with the Balloon",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["Banksy", "art"]
+},
+{
+  "id": "arts-009",
+  "question": "Hvaða bygging er þetta? (Colosseum)",
+  "answer": "Colosseum (Róm)",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["architecture", "Rome"]
+}
+]

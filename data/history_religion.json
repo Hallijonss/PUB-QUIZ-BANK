@@ -1,0 +1,290 @@
+[
+  {
+    "id": "history_religion-001",
+    "question": "Á hvaða eyju var Napóleon Bónaparte sendur í útlegð árið 1815 eftir ósigurinn við Waterloo?",
+    "answer": "St. Helena",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["saga", "Napóleon", "Evrópa"]
+  },
+  {
+    "id": "history_religion-002",
+    "question": "Hvað hét guð stríðs í rómverskri goðafræði?",
+    "answer": "Mars",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["goðafræði", "Róm", "trúarbrögð"]
+  },
+  {
+    "id": "history_religion-003",
+    "question": "Hver var gyðja visku í grískri goðafræði?",
+    "answer": "Athena",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["goðafræði", "Grikkland", "trúarbrögð"]
+  },
+  {
+    "id": "history_religion-004",
+    "question": "Milli hvaða borga hljóp Pheidippides lengd sem var rúmlega 40 km árið 490 f.Kr. samkvæmt sögum?",
+    "answer": "Marathon og Aþena",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["fornöld", "Grikkland", "hlaup", "saga"]
+  },
+  {
+    "id": "history_religion-005",
+    "question": "Rómverski íþróttamaðurinn Gaius Appuleius Diocles var líklega ríkasti íþróttamaður sögunnar. Í hvaða íþrótt keppti hann?",
+    "answer": "Hestvagnakappreiðum",
+    "difficulty": 3,
+    "author": "Jói",
+    "tags": ["Róm", "íþróttasaga", "fornöld"]
+  },
+  {
+    "id": "history_religion-006",
+    "question": "Hvað hét maðurinn sem Jesús reisti upp frá dauðum og lag á síðustu plötu David Bowie heitir eftir?",
+    "answer": "Lazarus",
+    "difficulty": 2,
+    "author": "Jói",
+    "tags": ["kristni", "Biblían", "tónlist"]
+  },
+  {
+    "id": "history_religion-007",
+    "question": "Trúarbragð sem á rætur að rekja til eins manns sem sagðist hafa skrifað bók út frá gullplötum með hjálp heilags anda byrjaði um 1820. Hvaða trúarbragð er þetta og hver stofnaði það?",
+    "answer": "Mormónismi — Joseph Smith",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["trúarbrögð", "Bandaríkin", "Mormónar"]
+  },
+  {
+    "id": "history_religion-008",
+    "question": "Hvað var stærsta heimsveldi allra tíma miðað við flatarmál?",
+    "answer": "Breska heimsveldið",
+    "difficulty": 2,
+    "author": "Hugi",
+    "tags": ["heimsveldi", "saga", "Bretland"]
+  },
+  {
+    "id": "history_religion-009",
+    "question": "Á fyrri hluta 17. aldar komu svokallaðir Tyrkir til Íslands (Tyrkjaránið). Hvað hét aðalskipstjóri sjóræningjanna og hvaðan var hann?",
+    "answer": "Jan Janszoon — Hollenskur",
+    "difficulty": 3,
+    "author": "Valdi",
+    "tags": ["Ísland", "saga", "sjóræningjar"]
+  },
+  {
+    "id": "history_religion-010",
+    "question": "Eitt afríkuland var í einkaeigu belgíska konungsins Leopolds II. Hvaða land var það?",
+    "answer": "Kongó",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Afríka", "nýlendutími", "Belgía"]
+  },
+  {
+    "id": "history_religion-011",
+    "question": "Í norrænni goðafræði, hvað heita þrír heimar sem samsvara undirheimum, jörðinni og Elysium í grískri goðafræði?",
+    "answer": "Niflheimar, Miðgarður og Ásgarður",
+    "difficulty": 3,
+    "author": "Halli",
+    "tags": ["norræn goðafræði", "trúarbrögð", "goðafræði"]
+  },
+  {
+    "id": "history_religion-012",
+    "question": "Árið 1989 urðu fjöldamorð eftir mótmæli í Kína. Á hvaða torgi átti þetta sér stað og í hvaða borg?",
+    "answer": "Tiananmen-torg (Torg hins himneska friðar), Peking",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Kína", "nútímasaga", "mótmæli"]
+  },
+  {
+    "id": "history_religion-013",
+    "question": "Eftir 27 ár í fangelsi var þessi maður frelsaður 1990 og varð fyrsti svarti forseti lands síns árið 1994. Hver var hann og frá hvaða landi?",
+    "answer": "Nelson Mandela — Suður-Afríka",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["Suður-Afríka", "leiðtogar", "nútímasaga"]
+  },
+  {
+    "id": "history_religion-014",
+    "question": "Hvað gerðist 2. apríl 2005 sem varð til þess að um 4 milljónir manna, þar á meðal tugir þjóðarleiðtoga, fóru til Rómar? (Auka stig fyrir nafn)",
+    "answer": "Jarðarför Jóhannesar Páls II páfa",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Vatíkanið", "kristni", "nútímasaga"]
+  },
+  {
+    "id": "history_religion-015",
+    "question": "Ástríkur og Steinríkur gerast 50 árum f.Kr. Landsvæðið þar sem Frakkland er í dag hafði annað nafn undir stjórn Júlíusar Sesars. Hvað hét það og hver leiddi hópinn sem drap Sesar?",
+    "answer": "Gallía — Brútus",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Róm", "fornöld", "Asterix"]
+  },
+  {
+    "id": "history_religion-016",
+    "question": "Hver fór með orðin: \"And if America is to be a great nation, this must become true. And so let freedom ring from the prodigious hilltops of New Hampshire.\"?",
+    "answer": "Martin Luther King Jr.",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Bandaríkin", "ræðuhöld", "mannréttindi"]
+  },
+  {
+  "id": "history_religion-017",
+  "question": "Hvaða stórveldi var Austurríki hluti af frá 1867 til 1918?",
+  "answer": "Austurrísk-ungverska keisaradæmið (Austro-Hungarian Empire)",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["Europe", "empire"]
+},
+{
+  "id": "history_religion-018",
+  "question": "Hvað sýnir Zapruder myndin?",
+  "answer": "Morðið á JFK (JFK assassination)",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["USA", "JFK"]
+},
+{
+  "id": "history_religion-019",
+  "question": "Hvar verða sumarólympíuleikarnir 2020 haldnir?",
+  "answer": "Tokyo",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["Olympics"]
+},
+{
+  "id": "history_religion-020",
+  "question": "Hver er mannskæðasta skotárás í Bandaríkjunum framin af einstaklingi?",
+  "answer": "Las Vegas — Stephen Paddock",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["USA", "crime"]
+},
+{
+  "id": "history_religion-021",
+  "question": "Hvaða ár vann Ítalía sinn seinasta titil í heimsmeistaratitli, þegar Zinedine Zidane var rekinn út af velli eftir að hafa skallað Marco Materazzi?",
+  "answer": "2006",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["football", "World Cup"]
+},
+{
+  "id": "history_religion-022",
+  "question": "Tvö smáríki eru staðsett innan landamæra Ítalíu, hver eru þau?",
+  "answer": "San Marino og Vatíkanið",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["Italy", "microstates"]
+},
+{
+  "id": "history_religion-023",
+  "question": "Hinn guðdómlegi gleðileikur er söguljóð skrifað á fyrri hluta 14. aldar og fjallar það um ferð um 9 hringi vítis, hvert er nafn söguhetjunnar sem er einnig nafn rithöfundsins?",
+  "answer": "Dante",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["literature", "Italy"]
+},
+{
+  "id": "history_religion-024",
+  "question": "Ítalir hafa oft vitnað í Machiavelli og sagt “Il fine giustifica i mezzi.” Hvað þýðir sú setning?",
+  "answer": "Niðurstöður réttlæta aðferðirnar / The end justifies the means",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["Italy", "phrases"]
+},
+{
+  "id": "history_religion-025",
+  "question": "Hvaða leikari fór með hlutverk Vito Corleone í bíómyndinni The Godfather?",
+  "answer": "Marlon Brando",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["movies", "actors"]
+},
+{
+  "id": "history_religion-026",
+  "question": "Hvaða byggingar féllu til grunna í Manhattan 11. september 2001?",
+  "answer": "World Trade Center 1, 2 og 7",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["USA", "9/11"]
+},
+{
+  "id": "history_religion-027",
+  "question": "Hvað nefnist geimferðin sem var sú fyrsta til að senda menn til tunglsins, og hvaða ár átti það sér stað?",
+  "answer": "Apollo 11, 1969",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["space", "NASA"]
+},
+{
+  "id": "history_religion-028",
+  "question": "Mount Rushmore er eitt af frægustu kennimerkjum Bandaríkjanna, en þar eru grafin fjögur andlit þar á meðal Abraham Lincoln og George Washington, en hver eru hin tvö?",
+  "answer": "Thomas Jefferson og Theodore Roosevelt",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["USA", "monuments"]
+},
+{
+  "id": "history_religion-029",
+  "question": "Hvaða ár skoraði Maradona með höndinni og hvað er þetta atvik kallað?",
+  "answer": "1986, Hönd Guðs",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["football", "Argentina"]
+},
+{
+  "id": "history_religion-030",
+  "question": "Guðmundar- og Geirfinnsmálið er viðamikið sakamál sem snýr að óútskýrðu hvarfi tveggja manna árið 1974, Guðmundar og Geirfinns. Sex manns fengu dóm vegna aðkomu sinnar að málinu. Nefnið þrjá af sex sakborningum í málinu.",
+  "answer": "Sævar Ciesielski; Kristján Viðar Júlíusson; Tryggvi Rúnar Leifsson; Guðjón Skarphéðinsson; Albert Klahn Skaftason; Erla Bolladóttir (nefnið 3)",
+  "difficulty": 3,
+  "author": "Halli",
+  "tags": ["Iceland", "true crime"]
+},
+{
+  "id": "history_religion-031",
+  "question": "Í grískri goðafræði, hver er ferjumaðurinn sem ferjar sálina yfir Styx til undirheimanna?",
+  "answer": "Karon (Charon)",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["mythology", "Greece"]
+},
+{
+  "id": "history_religion-032",
+  "question": "Rómversk guðanöfn: Júpiter, Neptún og Plútó — hvaða grísku guðir gáfu rómverjar þessum nöfnum?",
+  "answer": "Seifur, Poseidon og Hades",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["mythology", "Rome"]
+},
+{
+  "id": "history_religion-033",
+  "question": "Jesú fékk þrjár gjafir þegar hann fæddist, eitt af þeim var gull, hver voru hin tvö?",
+  "answer": "Reykelsi og myrra",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["Christianity", "Bible"]
+},
+{
+  "id": "history_religion-034",
+  "question": "Mörg eru trúarbrögðin… eitt af merkari trúarbrögðum er það sem á sér rætur að frá einum manni sem skrifaði bók, sem hann sagðist hafa skrifað frá gullplötum með hjálp heilags anda. Trúarbragðið er tiltölulega nýtt og byrjaði um 1820. Árið 2011 kom söngleikur eftir þessu trúarbragði út sem hlaut mikilla vinsælda, spurt er hvert er trúarbragðið, og hver bjó það til?",
+  "answer": "Mormonismi; Joseph Smith",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["religion", "USA"]
+},
+{
+  "id": "history_religion-035",
+  "question": "Hvert er margfeldi allra reita á evrópsku rúllettuborði?",
+  "answer": "0",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["math", "roulette"]
+},
+{
+  "id": "history_religion-036",
+  "question": "Hvar átti Orrustan við Liège sér stað?",
+  "answer": "Belgía",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["WWI", "Europe"]
+}
+]

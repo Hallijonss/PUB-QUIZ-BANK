@@ -1,0 +1,19 @@
+{
+  "categories": [
+    { "key": "business", "label": "Atvinnulíf / Business", "file": "data/business.json" },
+    { "key": "movies_tv", "label": "Movies & TV", "file": "data/movies_tv.json" },
+    { "key": "literature", "label": "Literature", "file": "data/literature.json" },
+    { "key": "media", "label": "Media", "file": "data/media.json" },
+    { "key": "festivities", "label": "Festivities", "file": "data/festivities.json" },
+    { "key": "what_year", "label": "What year", "file": "data/what_year.json" },
+    { "key": "sports", "label": "Sports", "file": "data/sports.json" },
+    { "key": "geography", "label": "Geography", "file": "data/geography.json" },
+    { "key": "arts", "label": "Arts", "file": "data/arts.json" },
+    { "key": "food_drink", "label": "Food and Drink", "file": "data/food_drink.json" },
+    { "key": "history_religion", "label": "History and Religion", "file": "data/history_religion.json" },
+    { "key": "politics", "label": "Politics", "file": "data/politics.json" },
+    { "key": "technology", "label": "Technology", "file": "data/technology.json" },
+    { "key": "music", "label": "Music", "file": "data/music.json" },
+    { "key": "misc", "label": "Other / Misc", "file": "data/misc.json" }
+  ]
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "what_year-001",
+    "question": "Vefsíðan thefacebook er stofnuð af Mark Zuckerberg, kvikmyndin Mean Girls kemur út og Ruslana sigrar Eurovision með laginu Wild Dances. Hvaða ár er þetta?",
+    "answer": "2004",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["ártal", "internet", "kvikmyndir", "Eurovision"]
+  },
+  {
+    "id": "what_year-002",
+    "question": "eBay opnar netuppboðssíðu, DVD diskar eru kynntir, hljómsveitin Grateful Dead hættir, Jumanji kemur í bíó og O.J. Simpson er fundinn saklaus. Hvaða ár er þetta?",
+    "answer": "1995",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["ártal", "internet", "kvikmyndir", "fréttir"]
+  },
+  {
+    "id": "what_year-003",
+    "question": "Gangsta's Paradise var í fyrsta sæti á topplistum, Batman Forever seldi flesta bíómiða, Bill Clinton var forseti Bandaríkjanna, Vigdís Finnbogadóttir forseti Íslands og O.J. Simpson var sýknaður. Hvaða ár er þetta?",
+    "answer": "1995",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["ártal", "tónlist", "kvikmyndir", "stjórnmál"]
+  },
+  {
+    "id": "what_year-004",
+    "question": "Careless Whisper var í fyrsta sæti á topplistum, Back to the Future seldi flesta bíómiða, Ronald Reagan var forseti Bandaríkjanna, Vigdís Finnbogadóttir forseti Íslands og Gorbachev varð leiðtogi Sovétríkjanna. Hvaða ár er þetta?",
+    "answer": "1985",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["ártal", "tónlist", "kvikmyndir", "saga"]
+  }
+]

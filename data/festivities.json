@@ -1,0 +1,42 @@
+[
+  {
+    "id": "festivities-001",
+    "question": "Nefnið tvo af handritshöfundum Áramótaskaupsins sem sýnt var 2023?",
+    "answer": "T.d. Sveppi og Benni (einnig: Fannar, Þorsteinn Guðmundsson)",
+    "difficulty": 3,
+    "author": "Valdi",
+    "tags": ["Ísland", "áramótaskaup", "skemmtiþættir"]
+  },
+  {
+    "id": "festivities-002",
+    "question": "Árið 2022 kom út nýtt jóladagatal sem nefnt er eftir tveimur uppátækjasömum krökkum. Hilmir Snær, Ilmur Kristjánsdóttir og Saga Garðarsdóttir eru meðal leikara. Hvað heitir jóladagatalið?",
+    "answer": "Randalín og Mundi",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["Ísland", "jóladagatal", "sjónvarp", "jólin"]
+  },
+  {
+    "id": "festivities-003",
+    "question": "Í Finnlandi kallast jólasveinninn Joulupukki og er ekki Claus heldur tegund dýrs. Fyrir jól er hefð í bænum Gävle í Svíþjóð að reisa risastóra eftirlíkingu af þessu dýri og oft er hún eyðilögð fyrir jól (yfirleitt með eldi). Hvaða dýr er þetta?",
+    "answer": "Geit (jólageit / goat)",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["Norðurlönd", "hefðir", "jólin", "Svíþjóð", "Finnland"]
+  },
+  {
+    "id": "festivities-004",
+    "question": "Danir fagna árlega komu jólaölsins (Tuborg Julebryg) á svokölluðum J-Day. Hvaða dag ársins átti það sér stað „í ár“?",
+    "answer": "Fyrsti föstudagur í nóvember (t.d. 4. nóvember)",
+    "difficulty": 3,
+    "author": "Valdi",
+    "tags": ["Danmörk", "hefðir", "jólin", "bjór"]
+  },
+  {
+    "id": "festivities-005",
+    "question": "Hver er sjötti jólasveinninn?",
+    "answer": "Askasleikir",
+    "difficulty": 2,
+    "author": "Jói",
+    "tags": ["Ísland", "jólasveinar", "jólin"]
+  }
+]

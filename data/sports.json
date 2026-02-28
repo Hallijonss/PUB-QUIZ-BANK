@@ -1,0 +1,162 @@
+[
+  {
+    "id": "sports-001",
+    "question": "Til hvaða liðs gekk Lionel Messi við sumarið 2023?",
+    "answer": "Inter Miami",
+    "difficulty": 1,
+    "author": "Valdi",
+    "tags": ["fótbolti", "Messi", "MLS"]
+  },
+  {
+    "id": "sports-002",
+    "question": "Spurt er um leik. Fyrsta þrautin sem keppendurnir þreyta í sjónvarpsseríunni Squid Game, sem stýrt var af risavaxinni brúðu?",
+    "answer": "1,2,3 Dimmalimm / Red Light Green Light",
+    "difficulty": 1,
+    "author": "Valdi",
+    "tags": ["leikir", "sjónvarp", "Squid Game"]
+  },
+  {
+    "id": "sports-003",
+    "question": "Í spilastokki er einn kóngurinn stundum kallaður sjálfsmorðskóngurinn þar sem það lítur út eins og sverð fari í gegnum haus hans. Hvaða sort tilheyrir þessi kóngur?",
+    "answer": "Hjarta kóngur",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["spil", "spilastokkur", "reglur"]
+  },
+  {
+    "id": "sports-004",
+    "question": "Undir hvaða nafni keppir Taiwan á Ólympíuleikunum?",
+    "answer": "Chinese Taipei",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["ólympíuleikar", "lönd", "Taiwan"]
+  },
+  {
+    "id": "sports-005",
+    "question": "Hvað hét kenyubúinn sem hljóp maraþon undir 2 tímum fyrstur manna?",
+    "answer": "Eliud Kipchoge",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["hlaup", "maraþon", "met"]
+  },
+  {
+    "id": "sports-006",
+    "question": "Hver er sigursælasti NBA leikmaður sögunnar?",
+    "answer": "Bill Russell",
+    "difficulty": 2,
+    "author": "Jói",
+    "tags": ["NBA", "körfubolti", "met"]
+  },
+  {
+    "id": "sports-007",
+    "question": "Hvað eru margir í liði í vatnapólói?",
+    "answer": "7",
+    "difficulty": 1,
+    "author": "Jói",
+    "tags": ["vatnapóló", "reglur", "liðsíþróttir"]
+  },
+  {
+    "id": "sports-008",
+    "question": "Hvað eru fæstu pílur sem hægt er að kasta til þess að klára eina lotu í pílukasti?",
+    "answer": "9",
+    "difficulty": 2,
+    "author": "Jói",
+    "tags": ["pílukast", "reglur", "met"]
+  },
+  {
+    "id": "sports-009",
+    "question": "Hver er lægsta tala sem EKKI er hægt að fá með einu pílukasti á hefðbundnu píluspjaldi?",
+    "answer": "23",
+    "difficulty": 3,
+    "author": "Gummi",
+    "tags": ["pílukast", "tölur", "reglur"]
+  },
+  {
+    "id": "sports-010",
+    "question": "Hvert er elsta starfandi fyrirtækið á Íslandi?",
+    "answer": "Íslandspóstur",
+    "difficulty": 3,
+    "author": "Halli",
+    "tags": ["Ísland", "fyrirtæki", "saga"]
+  },
+  {
+    "id": "sports-011",
+    "question": "Eitt stærsta rafíþróttamót í heimi var haldið í Laugardalshöll árið 2021 en engir áhorfendur voru leyfðir vegna COVID. Í hvaða tölvuleik var keppt?",
+    "answer": "League of Legends",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["rafíþróttir", "League of Legends", "Ísland"]
+  },
+  {
+    "id": "sports-012",
+    "question": "Hér á dögunum var haldið skákmót á Íslandi á Hótel Natura. Mótið var ekki að venjulegu sniði heldur voru leikmennirnir raðaðir upp í handahófskennda röð fyrir aftan peðin. Þessi gerð af skák er nefnd eftir íslenskum skákmanni, hver er það?",
+    "answer": "Bobby Fischer",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["skák", "Chess960", "Bobby Fischer"]
+  },
+  {
+    "id": "sports-013",
+    "question": "Árið 1973 var haldinn íþróttaviðburður sem var mest áhorfði íþróttaviðburður upp að þeim tíma. Þá var mikil spenna hvort Bobby Riggs gæti haft betur yfir andstæðingi sínum. Í hvaða íþrótt var keppt og hvað var svona áhugavert við andstæðinginn?",
+    "answer": "Tennis, kona (Billie Jean King)",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["tennis", "saga", "Battle of the Sexes"]
+  },
+  {
+    "id": "sports-014",
+    "question": "Hvaða frægu orð fór Dorrit Moussaieff með eftir sigur í undanúrslitum í Ólympíuleikunum í Peking og á móti hverjum voru Íslendingar að keppa í undanúrslitum?",
+    "answer": "„Ísland er stórasta land í heimi“",
+    "difficulty": 3,
+    "author": "Halli",
+    "tags": ["Ísland", "ólympíuleikar", "tilvitnanir"]
+  },
+  {
+    "id": "sports-015",
+    "question": "Naughty Dog, framleiðandi Crash Bandicoot, gaf út ævintýra-spennuleik á PlayStation 3 árið 2007. Í leiknum er leitað að fjársjóði Sir Francis Drake. Hvað hét leikurinn og hvað heitir persónan sem maður leikur í leiknum?",
+    "answer": "Uncharted, Nathan Drake",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["tölvuleikir", "PlayStation", "Uncharted"]
+  },
+  {
+    "id": "sports-016",
+    "question": "Hvað hét maðurinn sem fyrstur hljóp mílu á undir fjórum mínútum í Oxford árið 1954?",
+    "answer": "Roger Bannister",
+    "difficulty": 2,
+    "author": "Hófí",
+    "tags": ["hlaup", "met", "saga"]
+  },
+  {
+    "id": "sports-017",
+    "question": "Tveir menn, annar frá Bandaríkjunum og hinn frá Sovétríkjunum, léku fræga skák í Reykjavík árið 1972. Hvað hétu mennirnir tveir og hvar í Reykjavík var skákin haldin?",
+    "answer": "Boris Spassky og Bobby Fischer, í Laugardalshöll",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["skák", "Reykjavík", "saga"]
+  },
+  {
+  "id": "sports-018",
+  "question": "Sturla Holm Lægreid vakti athygli fyrir ótrúlegt sjónvarpsviðtal sitt þar sem hann viðurkenndi framhjáhald í beinni sjónvarpsútsendingu. Frá hvaða landi er hann og í hvaða sæti lenti hann áður en viðtalið var tekið?",
+  "answer": "Noregur; þriðja sæti",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["biathlon", "Norway"]
+},
+{
+  "id": "sports-019",
+  "question": "Ryōyū Kobayashi í samstarfi við Red Bull setti nýlega heimsmet í skíðagrein á Akureyri í apríl 2024, hvaða skíðagrein var sett heimsmet í?",
+  "answer": "Skíðastökki (langstökki) — 291 metrar",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["ski jumping", "records", "time sensitive"]
+},
+{
+  "id": "sports-020",
+  "question": "Ísland hefur tvisvar sinnum unnið til verðlauna í handbolta, hvaða mót voru það og í hvaða sæti lenti Ísland í?",
+  "answer": "Ólympíuleikar: annað sæti; EM: þriðja sæti",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["handball", "Iceland"]
+}
+]

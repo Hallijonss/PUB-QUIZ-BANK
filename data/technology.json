@@ -1,0 +1,186 @@
+[
+  {
+    "id": "technology-001",
+    "question": "Hvað stendur styttingin í skjalagerðinni CSV fyrir?",
+    "answer": "Comma Separated Values",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["tölvur", "skrár", "gögn"]
+  },
+  {
+    "id": "technology-002",
+    "question": "Hvað stendur skjalagerðin .apk fyrir?",
+    "answer": "Android Package File",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Android", "forrit", "skrár"]
+  },
+  {
+    "id": "technology-003",
+    "question": "Hvaða leikjaþjónusta sem kom út árið 2019 var í eigu Google en var lögð niður nokkrum árum síðar?",
+    "answer": "Stadia",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Google", "leikjaspilun", "tækni"]
+  },
+  {
+    "id": "technology-004",
+    "question": "Hvaða heimaleikjatölva frá Nintendo kom á eftir Wii og á undan Nintendo Switch?",
+    "answer": "Wii U",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["Nintendo", "leikjatölvur"]
+  },
+  {
+    "id": "technology-005",
+    "question": "Hvað nefnist svæðið í Bandaríkjunum þar sem höfuðstöðvar margra tæknifyrirtækja á borð við Apple, Alphabet og Facebook eru staðsettar?",
+    "answer": "Silicon Valley (Kísildalur)",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["Bandaríkin", "tæknifyrirtæki"]
+  },
+  {
+    "id": "technology-006",
+    "question": "Hver var innblástur að nafni forritunarmálsins Python?",
+    "answer": "Monty Python",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["forritun", "Python"]
+  },
+  {
+    "id": "technology-007",
+    "question": "Hver var fyrsti vinur allra á MySpace?",
+    "answer": "Tom",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["samfélagsmiðlar", "internet"]
+  },
+  {
+    "id": "technology-008",
+    "question": "Hvaða tónlistarmaður keypti MySpace árið 2011 stuttu eftir að hafa leikið í myndinni The Social Network?",
+    "answer": "Justin Timberlake",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["samfélagsmiðlar", "internet", "frægð"]
+  },
+  {
+    "id": "technology-009",
+    "question": "YouTube var stofnað 14. febrúar 2005. Hvað hét fyrsta myndbandið sem var birt á síðunni?",
+    "answer": "Me at the Zoo",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["YouTube", "internet", "myndbönd"]
+  },
+  {
+    "id": "technology-010",
+    "question": "Þetta tæki var þróað í Japan árið 1970 og varð vinsælast í sínum geira, m.a. vegna minni framleiðslukostnaðar en keppinautar. Nafnið er skammstöfun sem flestir nota enn í dag. Hvaða tæki er þetta?",
+    "answer": "VHS",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["heimilistæki", "myndbönd", "tækni"]
+  },
+  {
+    "id": "technology-011",
+    "question": "Hver var annar maðurinn á tunglinu?",
+    "answer": "Buzz Aldrin",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["geimferðir", "NASA"]
+  },
+  {
+    "id": "technology-012",
+    "question": "Frá hvaða landi eru Nissan bílar?",
+    "answer": "Japan",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["bílar", "Japan"]
+  },
+  {
+    "id": "technology-013",
+    "question": "Christopher Latham Sholes hannaði þessa uppfinningu um 1870 til að koma í veg fyrir stíflur í eldri tækjum. Við notum hana á hverjum degi. Hvaða uppfinning er þetta?",
+    "answer": "QWERTY lyklaborð",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["uppfinningar", "lyklaborð", "tölvur"]
+  },
+  {
+    "id": "technology-014",
+    "question": "Fyrstu merki um þessa uppfinningu eru frá um 200 f.Kr., en núverandi mynd hennar er frá 1852. Hún gerði okkur kleift að byggja háhýsi og breytti staðsetningu skrifstofa. Hvaða uppfinning er þetta?",
+    "answer": "Lyfta",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["uppfinningar", "byggingar", "verkfræði"]
+  },
+  {
+    "id": "technology-015",
+    "question": "Rafmyntamarkaðurinn hrundi að hluta eftir fall FTX. Hver var stofnandi FTX sem var handtekinn?",
+    "answer": "Sam Bankman-Fried",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["rafmyntir", "FTX", "fjármál"]
+  },
+  {
+    "id": "technology-016",
+    "question": "Forstjórar Facebook og X (Twitter) sögðust ætla að keppa í bardaga. Hverjir eru þeir?",
+    "answer": "Elon Musk og Mark Zuckerberg",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["samfélagsmiðlar", "tæknifyrirtæki"]
+  },
+  {
+    "id": "technology-017",
+    "question": "Hvað heita móðurfyrirtæki Facebook og Google?",
+    "answer": "Meta og Alphabet",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["fyrirtæki", "tækni"]
+  },
+  {
+    "id": "technology-018",
+    "question": "Hvaða fyrirtæki keypti Wordle og hversu margir stafir eru í daglega orðinu?",
+    "answer": "New York Times, 5",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["leikir", "Wordle", "internet"]
+  },
+  {
+  "id": "technology-019",
+  "question": "Anguilla er lítil bresk nýlenda í Karabíska hafinu með um 15 þúsund manns, en á síðustu árum hafa tækninýjungar gert það að verkum að landsframleiðsla hefur aukist um 40%. Hvað hefur Anguilla verið að selja sem hefur auðgað þeim svona mikið (tengist nafninu)?",
+  "answer": ".ai domain",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["domains", "economy"]
+},
+{
+  "id": "technology-020",
+  "question": "Hvaða fyrirtæki stofnaði Palmer Luckey, sem var seinna keypt af Facebook?",
+  "answer": "Oculus",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["VR", "Facebook"]
+},
+{
+  "id": "technology-021",
+  "question": "Hvaða tvö kínversku fyrirtæki eru í lista top 10 vermætustu fyrirtækja (highest market cap)?",
+  "answer": "Alibaba; Tencent",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["China", "market cap", "companies", "time sensitive"]
+},
+{
+  "id": "technology-022",
+  "question": "Gengi rafmynnta hafa hríðfallið seinustu mánuði og hefur sala mynda á bitakeðjunni “blockchain” orðið sí vinsælli. Slíkar myndir eru kallaðar NFT en hvað stendur NFT fyrir?",
+  "answer": "Non-fungible token",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["crypto", "NFT"]
+},
+{
+  "id": "technology-023",
+  "question": "YouTube var stofnað 14. febrúar 2005 og var síðar keypt af Google og er nú næst mest heimsótta síða á netinu. En hvað hét fyrsta myndbandið sem var birt á síðunni?",
+  "answer": "Me at the Zoo",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["YouTube", "history"]
+}
+]

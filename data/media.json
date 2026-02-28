@@ -1,0 +1,34 @@
+[
+  {
+    "id": "media-001",
+    "question": "Hvert er millinafn Kanye West?",
+    "answer": "Omari",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["tónlist", "frægð", "Kanye West"]
+  },
+  {
+    "id": "media-002",
+    "question": "Hvaða töframaður læsti sig inn í klaka í 63 tíma árið 2000 á Times Square?",
+    "answer": "David Blaine",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["töfrar", "frægð", "bandaríkin"]
+  },
+  {
+    "id": "media-003",
+    "question": "Í einum af fyrstu þáttum af Sunnudagsmorgni með Gísla Marteini (2013) ræddu Bubbi Morthens og Helgi Hrafn Guðmundsson (pírati) um höfundarétt og internetið. Bubbi sakaði Helga um að hafa talað niður til sín með orði sem Helgi notar nær daglega í sínum störfum. Hvaða orð var það?",
+    "answer": "Háttvirtur",
+    "difficulty": 3,
+    "author": "Jói",
+    "tags": ["Ísland", "fjölmiðlar", "pólitík", "þættir"]
+  },
+  {
+    "id": "media-004",
+    "question": "Reglur í skák hafa haldist að mestu óbreyttar í árhundruð, en einn leikur bættist við þegar Frakkar innlimuðu hann (16.–19. öld). Leikurinn felur m.a. í sér að peð getur tekið peð andstæðingsins með því að færa sig á ská yfir á auðan reit. Hvað heitir leikurinn?",
+    "answer": "En passant",
+    "difficulty": 3,
+    "author": "Hófí",
+    "tags": ["skák", "reglur", "Frakkland", "íþróttir/leikir"]
+  }
+]

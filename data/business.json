@@ -1,0 +1,42 @@
+[
+  {
+    "id": "business-001",
+    "question": "Forstjóri Marels steig til hliðar fyrir nokkrum vikum síðan - hvað heitir sá maður?",
+    "answer": "Árni Oddur Þórðarson",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["fyrirtæki", "Ísland", "stjórnendur"]
+  },
+  {
+    "id": "business-002",
+    "question": "OpenAI var einnig mikið í fréttunum uppá síðkastið vegna þess að framkvæmdastjóranum var sagt upp en síðan ráðinn aftur nokkru síðar. Hvað heitir maðurinn?",
+    "answer": "Sam Altman",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["tækni", "AI", "stjórnendur"]
+  },
+  {
+    "id": "business-003",
+    "question": "Hver er á 10 dollara seðlinum?",
+    "answer": "Alexander Hamilton",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["peningar", "bandaríkin", "saga"]
+  },
+  {
+    "id": "business-004",
+    "question": "Hver er á þúsundkallinum?",
+    "answer": "Brynjólfur Sveinsson",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["peningar", "Ísland"]
+  },
+  {
+    "id": "business-005",
+    "question": "Hvað heitir hæsta bygging Íslands?",
+    "answer": "Smáratorg (Turninn)",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["Ísland", "byggingar", "landafræði"]
+  }
+]

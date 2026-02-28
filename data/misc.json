@@ -1,0 +1,330 @@
+[
+  {
+    "id": "misc-001",
+    "question": "Hvert er orðið: Egg, Bensín, Forritun?",
+    "answer": "Skel (Shell)",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["orðaleikur", "hugtak"]
+  },
+  {
+    "id": "misc-002",
+    "question": "Árið 2011 var gefin út símaskrá þar sem ákveðinn einstaklingur var á forsíðunni. Síðar var gefinn út límmiði til að líma yfir hann. Hver var einstaklingurinn?",
+    "answer": "Egill Einarsson",
+    "difficulty": 3,
+    "author": "Valdi",
+    "tags": ["Ísland", "fréttir"]
+  },
+  {
+    "id": "misc-003",
+    "question": "Hvað hét hundurinn sem tveir ungir menn áttu að hafa drepið á Akureyri en síðar kom í ljós að var á lífi?",
+    "answer": "Lúkas",
+    "difficulty": 3,
+    "author": "Valdi",
+    "tags": ["Ísland", "fréttir"]
+  },
+  {
+    "id": "misc-004",
+    "question": "Hvað hét aflandsfélagið sem tengdist Sigmundi Davíð og leiddi til afsagnar hans sem forsætisráðherra?",
+    "answer": "Wintris",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["Ísland", "stjórnmál"]
+  },
+  {
+    "id": "misc-005",
+    "question": "Who was Time Person of the Year 2022?",
+    "answer": "Volodymyr Zelensky",
+    "difficulty": 1,
+    "author": "Valdi",
+    "tags": ["alþjóðamál", "fréttir"]
+  },
+  {
+    "id": "misc-006",
+    "question": "Áramótaskaup RÚV — klukkan hvað byrjar það og hvaða ár var fyrsta Áramótaskaupið sýnt?",
+    "answer": "22:30, 1966",
+    "difficulty": 2,
+    "author": "Valdi",
+    "tags": ["Ísland", "sjónvarp"]
+  },
+  {
+    "id": "misc-007",
+    "question": "Hversu margir þurfa að vera saman í herbergi þannig að yfir 50% líkur séu á að amk tveir eigi afmæli sama dag? (14, 23, 34 eða 55)",
+    "answer": "23",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["líkur", "stærðfræði"]
+  },
+  {
+    "id": "misc-008",
+    "question": "27. júní 2019 safnaðist fólk saman í Nevada til að reyna að komast inn á svæði í leit að geimverum. Hvaða svæði var það?",
+    "answer": "Area 51",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["internet", "menning"]
+  },
+  {
+    "id": "misc-009",
+    "question": "Hvað hét styttan sem var reist á móti nautinu á Wall Street árið 2017?",
+    "answer": "Fearless Girl",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Bandaríkin", "list", "fjármál"]
+  },
+  {
+    "id": "misc-010",
+    "question": "Hver er sjötta deild bandaríska hersins sem var tekin í gagnið 20. desember 2019?",
+    "answer": "Space Force",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Bandaríkin", "hermál"]
+  },
+  {
+    "id": "misc-011",
+    "question": "Hverjar eru sex deildir bandaríska hersins?",
+    "answer": "Army, Marine Corps, Navy, Air Force, Coast Guard og Space Force",
+    "difficulty": 3,
+    "author": "Halli",
+    "tags": ["Bandaríkin", "hermál"]
+  },
+  {
+    "id": "misc-012",
+    "question": "Af hverju vill sá sem þjáist af gymnophobiu ekki fara í gym eða sund?",
+    "answer": "Hræðsla við nekt (eigin og annarra)",
+    "difficulty": 2,
+    "author": "Jói",
+    "tags": ["orð", "sálfræði"]
+  },
+  {
+    "id": "misc-013",
+    "question": "Hvað kostar þróun í borðspilinu Catan?",
+    "answer": "Kind, stein og hey",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["borðspil", "Catan"]
+  },
+  {
+    "id": "misc-014",
+    "question": "Í málshættinum „enginn verður óbarinn biskup“, hvað eru biskuparnir barðir af?",
+    "answer": "Bókum",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["málshættir", "Ísland"]
+  },
+  {
+    "id": "misc-015",
+    "question": "Hvenær þurfa börn undir 12 ára að vera komin heim á veturna samkvæmt útivistartíma?",
+    "answer": "Klukkan átta",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["Ísland", "reglur"]
+  },
+  {
+    "id": "misc-016",
+    "question": "Hver var maðurinn sem lifði af sjóslys 11. mars 1984 og sagan hans er sögð í myndinni Djúpið?",
+    "answer": "Guðlaugur Friðriksson",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["Ísland", "saga", "kvikmyndir"]
+  },
+  {
+    "id": "misc-017",
+    "question": "Hver var valinn maður ársins hjá hlustendum Rásar 2 og hjá Time árið 2022?",
+    "answer": "Haraldur Þorleifsson og Volodymyr Zelensky",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["fréttir", "verðlaun"]
+  },
+  {
+    "id": "misc-018",
+    "question": "Hvaða íþróttadrykkur var auglýstur af Logan Paul og KSI og vakti mikla athygli meðal grunnskólakrakka?",
+    "answer": "Prime",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["drykkir", "internet", "áhrifavaldar"]
+  },
+  {
+    "id": "misc-019",
+    "question": "Kvöld eitt í nóvember 1993 söfnuðust hundruð manna á Hellissandi og biðu eftir einhverju sem aldrei kom. Eftir hverju var beðið?",
+    "answer": "Geimverum",
+    "difficulty": 3,
+    "author": "Halli",
+    "tags": ["Ísland", "fréttir", "menning"]
+  },
+  {
+    "id": "misc-020",
+    "question": "Hver er fyrsta grein íslensku stjórnarskrárinnar og um hvað fjallar önnur breytingartillaga (Second Amendment) bandarísku stjórnarskrárinnar?",
+    "answer": "Ísland er lýðveldi með þingbundinni stjórn / réttur til vopnaeignar",
+    "difficulty": 3,
+    "author": "Halli",
+    "tags": ["stjórnskipun", "Ísland", "Bandaríkin"]
+  },
+  {
+    "id": "misc-021",
+    "question": "Hvaða hagfræðingur skrifaði Das Kapital?",
+    "answer": "Karl Marx",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["hagfræði", "saga"]
+  },
+  {
+    "id": "misc-022",
+    "question": "Hvaða hagfræðingur setti fyrst fram hugmyndina um ósýnilegu höndina?",
+    "answer": "Adam Smith",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["hagfræði", "hugmyndasaga"]
+  },
+  {
+    "id": "misc-023",
+    "question": "Hvar má finna Rúbertu, Hálfslemmu og Game?",
+    "answer": "Í spilinu Bridge",
+    "difficulty": 3,
+    "author": "Halli",
+    "tags": ["spil", "Bridge"]
+  },
+  {
+    "id": "misc-024",
+    "question": "Hvað er Pelastikk, Apahönd og Stokkbragð?",
+    "answer": "Hnútar",
+    "difficulty": 3,
+    "author": "Halli",
+    "tags": ["hnútar", "útivist"]
+  },
+  {
+    "id": "misc-025",
+    "question": "Í hvaða landi var Helvetica leturgerðin hönnuð?",
+    "answer": "Sviss",
+    "difficulty": 2,
+    "author": "Hófí",
+    "tags": ["hönnun", "letur"]
+  },
+  {
+  "id": "misc-026",
+  "question": "Þýska er gullfallegt tungumál, en eitt þeirra þýsku orða, sem er oft notað án þýðingar er Schadenfreude, hvað þýðir það, og hvert er íslenska orðið?",
+  "answer": "Gleðjast yfir óförum annarra; Þórðargleði",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["German", "language"]
+},
+{
+  "id": "misc-027",
+  "question": "Af hverju vill sá sem þjáist af gymnophobiu ekki skella sér í gymmið og sund með strákunum? (orðin eru dregin af sama stofni)",
+  "answer": "Hræðsla við nekt (eigin og annarra)",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["phobia", "language"]
+},
+{
+  "id": "misc-028",
+  "question": "Á hvaða degi dagatalsins eru fæst dauðsföll?",
+  "answer": "29. febrúar",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["probability", "calendar"]
+},
+{
+  "id": "misc-029",
+  "question": "27. júní 2019 safnaðist saman hópur af fólki fyrir utan verndað svæði í Nevada með það í huga að komast inn í leit að geimverum, hvert vildi þetta fólk komast inn?",
+  "answer": "Area 51",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["internet", "memes"]
+},
+{
+  "id": "misc-030",
+  "question": "Á áttunda áratug seinustu aldar fékk Kodak mikið af kvörtunum yfir því að myndir teknar á filmum þeirra mátti sjá “ský” þegar teknar voru dimmar myndir. Kodak voru þó ekki sek en gæði filmunnar áttu rætur að rekja að filmurnar voru pakkaðar inn í Nevada. Hvað var að eyðileggja filmur Kodak?",
+  "answer": "Kjarnorkusprengjur",
+  "difficulty": 3,
+  "author": "Halli",
+  "tags": ["Kodak", "Nevada", "Cold War"]
+},
+{
+  "id": "misc-031",
+  "question": "Pornhub er með vinsælli klámsíðum heimsins, og voru Íslendingar næst duglegustu, miðað við höfðatölu, að heimsækja síðuna. En spurt er: hver vinsælasti flokkur klámyndbanda var meðal Íslendinga?",
+  "answer": "Anal",
+  "difficulty": 3,
+  "author": "Halli",
+  "tags": ["internet", "adult"]
+},
+{
+  "id": "misc-032",
+  "question": "Hvað merkir C í jöfnunni E=MC^2?",
+  "answer": "Ljóshraði",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["physics"]
+},
+{
+  "id": "misc-033",
+  "question": "Hversu marga fætur hafa fiðrildi?",
+  "answer": "6",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["animals"]
+},
+{
+  "id": "misc-034",
+  "question": "Hvaða stjarna er næst jörðu?",
+  "answer": "Sólin",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["space"]
+},
+{
+  "id": "misc-035",
+  "question": "Hvar er hæsta bygging heims?",
+  "answer": "Dubai",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["records", "buildings"]
+},
+{
+  "id": "misc-036",
+  "question": "Hvað heitir skíðasvæðið á Akureyri?",
+  "answer": "Hlíðarfjall",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["Iceland"]
+},
+{
+  "id": "misc-037",
+  "question": "Við hvaða vatn er Reykjahlíð?",
+  "answer": "Mývatn",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["Iceland"]
+},
+{
+  "id": "misc-038",
+  "question": "Við hvaða foss var Prometheus tekin upp?",
+  "answer": "Dettifoss",
+  "difficulty": 1,
+  "author": "Halli",
+  "tags": ["movies", "Iceland"]
+},
+{
+  "id": "misc-039",
+  "question": "Hvaða fugl hefur hröðustu efnaskipti og þarf allt að 12.000 kaloríur á dag?",
+  "answer": "Hummingbird",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["animals", "biology"]
+},
+{
+  "id": "misc-040",
+  "question": "Hvaða skyndibitastaður opnaði á Ítalíu árið 2015, en eftir lélega móttöku Ítala vegna gæða matsins þá lokuðu þeir öllum stöðum sínum árið 2022?",
+  "answer": "Domino’s",
+  "difficulty": 2,
+  "author": "Halli",
+  "tags": ["Italy", "business"]
+},
+{
+  "id": "misc-041",
+  "question": "Spurt er um mann. Maðurinn er kenndur við Chicago-háskólann og er talinn faðir peningamagnsstefnunnar. Hann vann Nóbelsverðlaunin 1976 og lést 2006, 94 ára að aldri. Hver er maðurinn?",
+  "answer": "Milton Friedman",
+  "difficulty": 3,
+  "author": "Halli",
+  "tags": ["economics", "Chicago"]
+}
+]

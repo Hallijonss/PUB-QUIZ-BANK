@@ -1,0 +1,74 @@
+[
+  {
+    "id": "literature-001",
+    "question": "Hvað heitir þriðja bókin í seríunni um töfrasnáðann Harry Potter?",
+    "answer": "Harry Potter and the Prisoner of Azkaban",
+    "difficulty": 1,
+    "author": "Valdi",
+    "tags": ["Harry Potter", "fantasy", "bækur"]
+  },
+  {
+    "id": "literature-002",
+    "question": "Hver skrifaði Twilight bækurnar?",
+    "answer": "Stephenie Meyer",
+    "difficulty": 1,
+    "author": "Valdi",
+    "tags": ["Twilight", "höfundar", "young adult"]
+  },
+  {
+    "id": "literature-003",
+    "question": "Hverjum giftist Harry Potter?",
+    "answer": "Ginny Weasley",
+    "difficulty": 1,
+    "author": "Valdi",
+    "tags": ["Harry Potter", "persónur", "fantasy"]
+  },
+  {
+    "id": "literature-004",
+    "question": "Frá hvaða riti sótti J.R.R. Tolkien nöfn förunauta Bilbo Baggins í The Hobbit?",
+    "answer": "Völuspá",
+    "difficulty": 3,
+    "author": "Halli",
+    "tags": ["Tolkien", "norræn goðafræði", "The Hobbit"]
+  },
+  {
+    "id": "literature-005",
+    "question": "Hvað heitir api Línu Langsokks? / Hesturinn?",
+    "answer": "Herra Níels / Litli kall",
+    "difficulty": 2,
+    "author": "Jói",
+    "tags": ["barnabækur", "Lína Langsokkur", "persónur"]
+  },
+  {
+    "id": "literature-006",
+    "question": "Hvaða sænski rithöfundur skrifaði bækurnar um Línu Langsokk?",
+    "answer": "Astrid Lindgren",
+    "difficulty": 1,
+    "author": "Halli",
+    "tags": ["barnabækur", "höfundar", "Svíþjóð"]
+  },
+  {
+    "id": "literature-007",
+    "question": "Harper Lee gaf aðeins út tvær bækur, þá fyrri árið 1960 og þá síðari árið 2015. Hverjar voru þær?",
+    "answer": "To Kill a Mockingbird og Go Set a Watchman",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["klassískar", "bandarískar bókmenntir", "höfundar"]
+  },
+  {
+    "id": "literature-008",
+    "question": "Hver skrifaði „A Farewell to Arms“ og „For Whom the Bell Tolls“?",
+    "answer": "Ernest Hemingway",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["klassískar", "höfundar", "bandarískar bókmenntir"]
+  },
+  {
+    "id": "literature-009",
+    "question": "Hver skrifaði „The Great Gatsby“ og „Tender Is the Night“?",
+    "answer": "F. Scott Fitzgerald",
+    "difficulty": 2,
+    "author": "Halli",
+    "tags": ["klassískar", "höfundar", "bandarískar bókmenntir"]
+  }
+]
